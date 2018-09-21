@@ -12,4 +12,4 @@ body = JSON.parse(@resp.body)
 
    render 'search'
   end
-end 
+end
